@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 I'm
-Shaik Ahamed
+Shaik Ahamed <br/>
 To Work for an organization which provides me the Opportunity to improve my skills and knowledge to growth along with the organization objectives. As a Fresher I have some skills that include back-end development using open source technologies (Java, Spring), front-end development ( ReactJs, HTML5, CSS3, Javascript), database(Mysql).
 
 
