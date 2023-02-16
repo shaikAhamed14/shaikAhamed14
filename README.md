@@ -5,8 +5,6 @@ Shaik Ahamed
 To Work for an organization which provides me the Opportunity to improve my skills and knowledge to growth along with the organization objectives. As a Fresher I have some skills that include back-end development using open source technologies (Java, Spring), front-end development ( ReactJs, HTML5, CSS3, Javascript), database(Mysql).
 
 
-![Visitor Count](https://profile-counter.glitch.me/shaikAhamed14/count.svg)
-
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -46,8 +44,8 @@ Languages :
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
-    <a href="https://www.corejava.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/corejava/corejava-original.svg" alt="corejava" width="40" height="40" />
+    <a href="https://www.java.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
     </a>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
